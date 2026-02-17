@@ -1,0 +1,7 @@
+Final Loss (epoch 500): 0.0063
+
+Test Texts & Predictions:
+  'This is amazing and great and wonderful and fantastic!' → 0.9824 (POSITIVE)
+  'This is terrible and bad and horrible and awful!' → 0.0161 (NEGATIVE)
+  'I really love this superb brilliant thing so much.' → 0.9727 (POSITIVE)
+  'What a pathetic useless disappointing dreadful mess.' → 0.0229 (NEGATIVE)
